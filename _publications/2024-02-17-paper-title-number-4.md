@@ -2,11 +2,11 @@
 title: "Simultaneous Pose and Posture Estimation with a Two-stage Particle Filter for Visuo-inertial Fusion"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+# excerpt: 'This paper is about fixing template issue #693.'
 date: 2022-07-01
 venue: '2022 International Conference on Advanced Robotics and Mechatronics'
 paperurl: 'https://ieeexplore.ieee.org/document/9959293'
-citation: 'N. Mehdi, V. Thomas, S. Ivaldi and F. Colas &quot;Simultaneous Pose and Posture Estimation with a Two-stage Particle Filter for Visuo-inertial Fusion.&quot; <i>2022 International Conference on Advanced Robotics and Mechatronics (ICARM)</i>. 1(3).'
+citation: 'N. Mehdi, V. Thomas, S. Ivaldi and F. Colas &quot;Simultaneous Pose and Posture Estimation with a Two-stage Particle Filter for Visuo-inertial Fusion.&quot; <i>2022 International Conference on Advanced Robotics and Mechatronics (ICARM)</i>.'
 ---
 
 We address the problem of human pose and posture estimation without any high precision marker-based motion capture
