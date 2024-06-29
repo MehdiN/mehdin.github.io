@@ -2,7 +2,7 @@
 title: "Simultaneous Pose and Posture Estimation with a Two-stage Particle Filter for Visuo-inertial Fusion"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-# excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'We propose an unified method for Pose Estimation and Localisation using Bayesian filtering.'
 date: 2022-07-01
 venue: '2022 International Conference on Advanced Robotics and Mechatronics'
 paperurl: 'https://ieeexplore.ieee.org/document/9959293'
