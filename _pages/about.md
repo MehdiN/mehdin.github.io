@@ -16,3 +16,11 @@ by Dr. Francis Colas, Dr. Serena Ivaldi and Prof. Vincent Thomas.
 Before, I have obtained my master degree and the title of engineer
 from ENSTA Bretagne.
 
+# Contact
+
+nima[dot]mehdi[at]inria[dot]fr
+
+# News
+
+- 12/2024 I defended my thesis!
+
