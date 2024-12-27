@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at [Inria Grand Est at the LARSEN team](https://team.inria.fr/larsen/).
-My thesis work includes Human Pose Estimation and Activity Prediction using
-Bayesian Based Modelling and Inference. 
+<!-- I am a postdoctoral researcher on probabilistic machine learning for robotics and human activity
+analysis with a focus on uncertainty modeling. -->
+
+I recently obtained my Ph.D from INRIA, Nancy Grand Est, France, supervised
+by Dr. Francis Colas, Dr. Serena Ivaldi and Prof. Vincent Thomas.
+Before, I have obtained my master degree and the title of engineer
+from ENSTA Bretagne.
+
