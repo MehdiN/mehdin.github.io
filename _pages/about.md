@@ -18,9 +18,9 @@ from ENSTA Bretagne.
 
 # Contact
 
-nima[dot]mehdi[at]inria[dot]fr
+**Email:** nima[dot]mehdi[at]inria[dot]fr
 
 # News
 
-- 12/2024 I defended my thesis!
+- **12/2024** I defended my thesis!
 
