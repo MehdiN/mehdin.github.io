@@ -14,11 +14,15 @@ analysis with a focus on uncertainty modeling. -->
 I recently obtained my Ph.D from INRIA, Nancy Grand Est, France, supervised
 by Dr. Francis Colas, Dr. Serena Ivaldi and Prof. Vincent Thomas.
 Before, I have obtained my master degree and the title of engineer
-from ENSTA Bretagne.
+from ENSTA Bretagne (Brest, France).
 
 # Contact
 
-**Email:** nima[dot]mehdi[at]inria[dot]fr
+**Email:** nima[dot]mehdi[at]inria[dot]
+
+# Research Interests
+
+
 
 # News
 
