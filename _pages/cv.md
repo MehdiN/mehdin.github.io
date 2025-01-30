@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+My resume can be downloaded from [here](files/acam_resume_2025.pdf).
+
+<!-- Education
 ======
 * Ph.D in Computer Science and Robotics, Inria Grand Est, Dec. 2024
 * M.S. in Robotic Engineering, ENSTA Bretagne, 2017
@@ -29,12 +31,12 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
