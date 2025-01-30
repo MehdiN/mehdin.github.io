@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science and Robotics, Inria Grand Est, 2024 (expected)
+* Ph.D in Computer Science and Robotics, Inria Grand Est, Dec. 2024
 * M.S. in Robotic Engineering, ENSTA Bretagne, 2017
 * CPGE in Physics, Camille Guérin, 2013
 
