@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 My resume can be downloaded from [here](https://mehdin.github.io/files/acam_resume_2025.pdf).
 
