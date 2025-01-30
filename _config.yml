@@ -14,7 +14,7 @@ name                     : &name "MEHDI Nima"
 description              : &description "PhD in Robotics and Machine Learning"
 url                      : https://mehdin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mehdin.github.io"
+repository               : "MehdiN/mehdin.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD in Robotics and Machine Learning"
   location         : # "Earth"
-  employer         : #"Red Brick University"
+  employer         : "INRIA"
   uri              : # URL
   email            : # "none@example.org" 
 
@@ -58,7 +58,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
-  mastodon         : "https://sigmoid.social/@nima"
+  mastodon         : # "https://sigmoid.social/@nima"
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
