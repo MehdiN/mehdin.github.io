@@ -25,8 +25,8 @@ author:
   name             : "MEHDI Nima"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Robotics and Machine Learning"
-  location         : # "Earth"
-  employer         : "INRIA"
+  location         : "France"
+  employer         : # "INRIA"
   uri              : # URL
   email            : # "none@example.org" 
 

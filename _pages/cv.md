@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-My resume can be downloaded from [here](https://mehdin.github.io/files/nm_cv.pdf).
+My CV can be downloaded from [here](https://mehdin.github.io/files/nm_cv.pdf).
 
 <!-- Education
 ======

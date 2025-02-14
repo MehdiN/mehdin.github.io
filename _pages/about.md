@@ -22,8 +22,7 @@ from ENSTA Bretagne (Brest, France).
 
 # Research Interests
 
-My research interests include Anticipation and Forecasting of dynamical systems, Human Action analysis and Robot Human Interaction.
-
+My research interests include anticipation and forecasting, human action analysis and autonomous systems.
 
 
 # News
