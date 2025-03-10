@@ -11,10 +11,9 @@ redirect_from:
 <!-- I am a postdoctoral researcher on probabilistic machine learning for robotics and human activity
 analysis with a focus on uncertainty modeling. -->
 
-I recently obtained my Ph.D from INRIA, Nancy Grand Est, France, supervised
+I recently obtained my Ph.D. at Inria Center of Lorraine University (Nancy, France), supervised
 by Dr. Francis Colas, Dr. Serena Ivaldi and Prof. Vincent Thomas.
-Before, I have obtained my master degree and the title of engineer
-from ENSTA Bretagne (Brest, France).
+Before, I have obtained my master degree and the title of engineer from ENSTA Bretagne (Brest, France).
 
 # Contact
 
