@@ -21,7 +21,8 @@ Before, I have obtained my master degree and the title of engineer from ENSTA Br
 
 # Research Interests
 
-My research interests include anticipation and forecasting, human action analysis and autonomous systems.
+My research interests include human action recognition and anticipation, 
+pose estimation and localization for human-robot interaction and collaboration.
 
 
 # News
