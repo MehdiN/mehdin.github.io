@@ -13,7 +13,7 @@ analysis with a focus on uncertainty modeling. -->
 
 I recently obtained my Ph.D. at Inria Center of Lorraine University (Nancy, France), supervised
 by Dr. Francis Colas, Dr. Serena Ivaldi and Prof. Vincent Thomas.
-Before, I have obtained my master degree and the title of engineer from ENSTA Bretagne (Brest, France).
+Before, I have obtained my master degree in Robotics and the title of engineer from ENSTA Bretagne (Brest, France).
 
 # Contact
 
@@ -21,8 +21,8 @@ Before, I have obtained my master degree and the title of engineer from ENSTA Br
 
 # Research Interests
 
-My research interests include human action recognition and anticipation, 
-pose estimation and localization for human-robot interaction and collaboration.
+My research interests include probabilistic generative 
+models, Bayesian inference and uncertainty quantification with applications to perception and decision making for human-robot interaction and robot navigation.
 
 
 # News
