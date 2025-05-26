@@ -21,8 +21,7 @@ Before, I have obtained my master degree in Robotics and the title of engineer f
 
 # Research Interests
 
-My research interests include probabilistic generative 
-models, Bayesian inference and uncertainty quantification with applications to perception and decision making for human-robot interaction and robot navigation.
+My research interests include probabilistic generative models, Bayesian inference and uncertainty quantification with applications to perception and decision-making for human-robot interaction and robot navigation.
 
 
 # News
