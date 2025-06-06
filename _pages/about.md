@@ -17,7 +17,7 @@ Before, I have obtained my master degree in Robotics and the title of engineer f
 
 # Contact
 
-**Email:** nima[dot]mehdi[at]inria[dot]
+**Email:** nima[dot]mehdi[at]posteo[dot]com
 
 # Research Interests
 
