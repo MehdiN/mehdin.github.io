@@ -14,6 +14,7 @@ analysis with a focus on uncertainty modeling. -->
 I recently obtained my Ph.D. at Inria Center of Lorraine University (Nancy, France), supervised
 by Dr. Francis Colas, Dr. Serena Ivaldi and Prof. Vincent Thomas.
 Before, I have obtained my master degree in Robotics and the title of engineer from ENSTA Bretagne (Brest, France).
+I will be working as a Postdoctoral Research and Teaching Assistant at [LAAS-CNRS](https://www.laas.fr/en/) and IUT-Université de Toulouse.
 
 # Contact
 
